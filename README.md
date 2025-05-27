@@ -2,4 +2,4 @@
 
 project creation date: 05-27-2025
 
-added project author: Max Smith
+project author: Max Smith
